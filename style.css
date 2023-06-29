@@ -29,13 +29,14 @@
 }
 
 #menu ul li a:hover {
-    background-color: rgb(139, 24, 233);
+    background-color: rgb(24, 149, 233);
 }
 
 #menu ul li:last-child a {
     float: right;
-    background-color: rgb(139, 24, 233);
+    background-color: rgb(24, 149, 233);
 }
+
 .quadro{
 	width: 48%;
 	float:left;
